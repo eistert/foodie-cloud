@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/platform/config-server/config-server.iml" filepath="$PROJECT_DIR$/platform/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/auth/foodie-auth-api/foodie-auth-api.iml" filepath="$PROJECT_DIR$/domain/auth/foodie-auth-api/foodie-auth-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/auth/foodie-auth-service/foodie-auth-service.iml" filepath="$PROJECT_DIR$/domain/auth/foodie-auth-service/foodie-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/cart/foodie-cart-api/foodie-cart-api.iml" filepath="$PROJECT_DIR$/domain/cart/foodie-cart-api/foodie-cart-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/cart/foodie-cart-service/foodie-cart-service.iml" filepath="$PROJECT_DIR$/domain/cart/foodie-cart-service/foodie-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/cart/foodie-cart-web/foodie-cart-web.iml" filepath="$PROJECT_DIR$/domain/cart/foodie-cart-web/foodie-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foodie-cloud.iml" filepath="$PROJECT_DIR$/foodie-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/foodie-cloud-common/foodie-cloud-common.iml" filepath="$PROJECT_DIR$/common/foodie-cloud-common/foodie-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/foodie-cloud-shared-pojo/foodie-cloud-shared-pojo.iml" filepath="$PROJECT_DIR$/common/foodie-cloud-shared-pojo/foodie-cloud-shared-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/foodie-cloud-web-components/foodie-cloud-web-components.iml" filepath="$PROJECT_DIR$/common/foodie-cloud-web-components/foodie-cloud-web-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/item/foodie-item-api/foodie-item-api.iml" filepath="$PROJECT_DIR$/domain/item/foodie-item-api/foodie-item-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/item/foodie-item-mapper/foodie-item-mapper.iml" filepath="$PROJECT_DIR$/domain/item/foodie-item-mapper/foodie-item-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/item/foodie-item-pojo/foodie-item-pojo.iml" filepath="$PROJECT_DIR$/domain/item/foodie-item-pojo/foodie-item-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/item/foodie-item-service/foodie-item-service.iml" filepath="$PROJECT_DIR$/domain/item/foodie-item-service/foodie-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/item/foodie-item-web/foodie-item-web.iml" filepath="$PROJECT_DIR$/domain/item/foodie-item-web/foodie-item-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/order/foodie-order-api/foodie-order-api.iml" filepath="$PROJECT_DIR$/domain/order/foodie-order-api/foodie-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/order/foodie-order-mapper/foodie-order-mapper.iml" filepath="$PROJECT_DIR$/domain/order/foodie-order-mapper/foodie-order-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/order/foodie-order-pojo/foodie-order-pojo.iml" filepath="$PROJECT_DIR$/domain/order/foodie-order-pojo/foodie-order-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/order/foodie-order-service/foodie-order-service.iml" filepath="$PROJECT_DIR$/domain/order/foodie-order-service/foodie-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/order/foodie-order-web/foodie-order-web.iml" filepath="$PROJECT_DIR$/domain/order/foodie-order-web/foodie-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/user/foodie-user-api/foodie-user-api.iml" filepath="$PROJECT_DIR$/domain/user/foodie-user-api/foodie-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/user/foodie-user-mapper/foodie-user-mapper.iml" filepath="$PROJECT_DIR$/domain/user/foodie-user-mapper/foodie-user-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/user/foodie-user-pojo/foodie-user-pojo.iml" filepath="$PROJECT_DIR$/domain/user/foodie-user-pojo/foodie-user-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/user/foodie-user-service/foodie-user-service.iml" filepath="$PROJECT_DIR$/domain/user/foodie-user-service/foodie-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/user/foodie-user-web/foodie-user-web.iml" filepath="$PROJECT_DIR$/domain/user/foodie-user-web/foodie-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/gateway/gateway.iml" filepath="$PROJECT_DIR$/platform/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/platform/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/hystrix-turbine/hystrix-turbine.iml" filepath="$PROJECT_DIR$/platform/hystrix-turbine/hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/registry-center/registry-center.iml" filepath="$PROJECT_DIR$/platform/registry-center/registry-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/zipkin-server/zipkin-server.iml" filepath="$PROJECT_DIR$/platform/zipkin-server/zipkin-server.iml" />
+    </modules>
+  </component>
+</project>

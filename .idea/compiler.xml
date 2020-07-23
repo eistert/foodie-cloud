@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="foodie-item-pojo" />
+        <module name="foodie-cart-api" />
+        <module name="foodie-auth-api" />
+        <module name="foodie-order-pojo" />
+        <module name="foodie-item-service" />
+        <module name="foodie-cloud-web-components" />
+        <module name="foodie-order-mapper" />
+        <module name="gateway" />
+        <module name="foodie-auth-service" />
+        <module name="foodie-user-pojo" />
+        <module name="zipkin-server" />
+        <module name="foodie-order-web" />
+        <module name="foodie-user-mapper" />
+        <module name="registry-center" />
+        <module name="hystrix-dashboard" />
+        <module name="foodie-cloud-common" />
+        <module name="foodie-order-api" />
+        <module name="foodie-item-web" />
+        <module name="foodie-item-api" />
+        <module name="foodie-cart-service" />
+        <module name="foodie-cart-web" />
+        <module name="foodie-user-web" />
+        <module name="foodie-cloud-shared-pojo" />
+        <module name="foodie-order-service" />
+        <module name="hystrix-turbine" />
+        <module name="foodie-user-api" />
+        <module name="foodie-user-service" />
+        <module name="foodie-item-mapper" />
+        <module name="config-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="1.8" />
+      <module name="foodie-auth-api" target="1.8" />
+      <module name="foodie-auth-service" target="1.8" />
+      <module name="foodie-cart-api" target="1.8" />
+      <module name="foodie-cart-service" target="1.8" />
+      <module name="foodie-cart-web" target="1.8" />
+      <module name="foodie-cloud" target="1.8" />
+      <module name="foodie-cloud-common" target="1.8" />
+      <module name="foodie-cloud-shared-pojo" target="1.8" />
+      <module name="foodie-cloud-web-components" target="1.8" />
+      <module name="foodie-item-api" target="1.8" />
+      <module name="foodie-item-mapper" target="1.8" />
+      <module name="foodie-item-pojo" target="1.8" />
+      <module name="foodie-item-service" target="1.8" />
+      <module name="foodie-item-web" target="1.8" />
+      <module name="foodie-order-api" target="1.8" />
+      <module name="foodie-order-mapper" target="1.8" />
+      <module name="foodie-order-pojo" target="1.8" />
+      <module name="foodie-order-service" target="1.8" />
+      <module name="foodie-order-web" target="1.8" />
+      <module name="foodie-user-api" target="1.8" />
+      <module name="foodie-user-mapper" target="1.8" />
+      <module name="foodie-user-pojo" target="1.8" />
+      <module name="foodie-user-service" target="1.8" />
+      <module name="foodie-user-web" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="hystrix-turbine" target="1.8" />
+      <module name="registry-center" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
