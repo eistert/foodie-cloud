@@ -5,7 +5,7 @@ spring:
   datasource:                                           # 数据源的相关配置
     # 拆分数据源到独立database instance，或者独立schema
 #    url: jdbc:mysql://localhost:3306/foodie-cloud-item?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true
-    url: jdbc:mysql://localhost:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true
+    url: jdbc:mysql://localhost:3307/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true
     password: root
   redis:
     # Redis 单机单实例
